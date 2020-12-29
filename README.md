@@ -1,10 +1,15 @@
-# Delilah Resto
-0- necesitas descargar XAMPP en tu compu, una vez instalado, le das start a Apache y MySQL. Ademas necesitaras tener Postman también.
+# Delilah Resto :computer
 
-1 - instalar las dependencias ( npm i {dependencias})
+## :red_circle: Instrucciones:
 
-2- Crear la base de datos que se encuentra en la carpeta db
+Vas a necesitar instalar lo siguiente: Postman, Node.js, XAMPP.
 
-<!-- 3- hay que hacerse un usuario(en la base de datos ya hay un usuario que es admin, para prevenir que se creen usuarios admins) y hacerlo admin desde phpmyAdmin ????????????????????es necesarioo??-->
+:one: Abrir XAMPP y darle al botón "start" a Apache y MySQL.
 
-4- bajar postman y poner utilizar la siguiente colleccion  https://www.getpostman.com/collections/64ba38a237d5b4863b51
+:two: instalar las dependencias ( npm i {dependencias})
+
+:three: Crear la base de datos que se encuentra en la carpeta db.
+
+:four: Utilizar la siguiente colleccion para Postman: https://www.getpostman.com/collections/90362889441c2b817cff
+
+:five: Iniciar servidor (npm run start)
