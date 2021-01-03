@@ -1,4 +1,4 @@
-# Delilah Resto :computer
+# Delilah Resto :computer:
 
 ## :red_circle: Instrucciones:
 
